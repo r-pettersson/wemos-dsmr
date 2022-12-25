@@ -19,4 +19,6 @@
 // Password for above user
 #define MQTT_PASSWORD ""
 
+#define LOG_LEVEL INFO
+
 
