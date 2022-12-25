@@ -19,11 +19,4 @@
 // Password for above user
 #define MQTT_PASSWORD ""
 
-// Setup gas entity in HA
-#define AUTOCONFIG_GAS false
 
-// Setup all power entities in HA
-#define AUTOCONFIG_POWER_EXTENDED false
-
-//for debugging, print info on serial (DEBUG, INFO, WARN)
-#define LOG_LEVEL INFO
